@@ -6,7 +6,7 @@
 
 - Facebook: fb.com/vanlam1412
 
-- Vendor Homepage: https://www.netis-systems.com/
+- Vendor Homepage: [Netis Systems](https://www.netis-systems.com/)
 
 - Version: Netis N5VN AC1200 V1.0.1.1742
 
@@ -28,4 +28,4 @@
 
 - nmap 192.168.1.254 -p 80 80/tcp closed http
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yVUTTPHLiu8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch the video demonstration here](https://www.youtube.com/watch?v=yVUTTPHLiu8)
