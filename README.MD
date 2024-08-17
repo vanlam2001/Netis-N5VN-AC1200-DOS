@@ -30,4 +30,6 @@
 
 [Watch the video demonstration here](https://youtu.be/WvplWEa3XhU?si=r1BJhyBbHiKtsukQ)
 
+![](https://www8.0zz0.com/2024/08/17/10/168879336.png)
+
 ![](https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhrie7lcjrgh2b)
