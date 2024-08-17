@@ -29,3 +29,5 @@
 - nmap 192.168.1.254 -p 80 80/tcp closed http
 
 [Watch the video demonstration here](https://youtu.be/WvplWEa3XhU?si=r1BJhyBbHiKtsukQ)
+
+![](https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhrie7lcjrgh2b)
