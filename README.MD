@@ -12,7 +12,7 @@
 
 - Tested on: Windows
 
-- CVE : N/A
+- CVE : CVE-2024-44596
 
 ## Overview
 
